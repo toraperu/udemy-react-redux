@@ -34,7 +34,7 @@ ReactDOM.render(
           <Route exaxt path="/events" component={EventsIndex} />
         </Switch>
       </BrowserRouter>
-    </Provider>,
+    </Provider>
   </MuiThemeProvider>,
    document.getElementById('root'));
 
